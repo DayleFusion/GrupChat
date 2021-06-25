@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513093433708",
+    "project_id": "selcukchatapp",
+    "storage_bucket": "selcukchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513093433708:android:0b22598364cc92b4759b49",
+        "android_client_info": {
+          "package_name": "com.example.group_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513093433708-pu2qjf5hf31pnb0uci7qnjml2ekgiktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYtzKuXEicArSsQmLGe0e-Q1NzBLiyvo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513093433708-pu2qjf5hf31pnb0uci7qnjml2ekgiktc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
